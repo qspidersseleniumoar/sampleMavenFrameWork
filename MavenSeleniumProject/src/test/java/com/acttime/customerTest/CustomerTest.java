@@ -28,5 +28,11 @@ public class CustomerTest {
 		System.out.println("search  deleteCustomerTest");
 
 	}
+	
+	@Test
+	public void updateCustomerTest() {
+		System.out.println("search  updateCustomerTest");
+
+	}
 
 }
